@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Eldar</h1>
 <h3 align="center">A passionate fullstack developer from Russia</h3>
+<div>
 <img align="right" alt="Coding" widh="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
-
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullaev-eldar&label=Profile%20views&color=0e75b6&style=flat" alt="abdullaev-eldar" /> </p>
 
